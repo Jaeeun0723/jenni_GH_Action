@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Hellp World 출력하기
+      - name: Hello World 출력하기
         run: echo "Hello World"
