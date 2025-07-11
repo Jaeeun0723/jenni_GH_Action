@@ -2,7 +2,8 @@ name: Gitbub Actions 실행시켜보기
 
 on:
   push:
-    branches: -main
+    branches: 
+      -main
 
 jobs:
   My-Deploy-Job:
